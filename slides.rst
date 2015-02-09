@@ -18,7 +18,7 @@ official documentation at https://hovercraft.readthedocs.org/
 
 INFRES722 Aplications P2P
 =========================
-http://piotr2b.github.io/INFRES722-Aplications-P2P
+https://github.com/piotr2b/INFRES722-Aplications-P2P
 
 ----
 
